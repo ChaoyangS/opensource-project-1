@@ -3,14 +3,14 @@
 
 **Contribution Number:** 2  
 **Student:** Chaoyang Shen 
-**Issue:** https://github.com/civiform/civiform/issues/10115
+**Issue:** [civiform/civiform#10115 — Focus box on filters is not centered](https://github.com/civiform/civiform/issues/10115)
 **Status:** Phase I
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+This issue reports a UI bug in CiviForm's North Star applicant experience: when a user tabs to a filter, the keyboard focus outline (the "focus box") is not properly centered around the filter element, so it appears visually misaligned. It matters because focus indicators are a core accessibility feature — keyboard and screen-reader users rely on a clear, correctly positioned outline to know where they are on the page, and a misaligned box undermines that on a civic platform many people depend on. I chose it because it is labeled a "good first issue" with a well-scoped, front-end CSS/HTML fix, which makes it an approachable entry point for learning CiviForm's codebase and contribution workflow while still practicing accessibility-focused UI work.
 
 ---
 
